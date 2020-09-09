@@ -1,6 +1,6 @@
 # 历史资料
 
-_建议在浏览器打开；大致按时间由新到旧排序_
+_建议在浏览器打开；大致按时间由新到旧排序；“标题”链接至阿里云，后面的天翼云要登陆_
 
 [周末004](https://www.teambition.com/app/pan/shareNode/60d11ae0a7f1f8ff)  /  [天翼云](https://cloud.189.cn/t/jm6RjeiEruIv)
 
