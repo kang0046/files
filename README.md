@@ -10,7 +10,7 @@
 
 [宗教改革007](https://pan.teambition.com/share/7a6236532ea8fcea)  /  [天翼云](https://cloud.189.cn/t/3IzyauUbiyQf)
 
-(推广) [Teambition](http://teambition.com)中的网盘提供高达6T的存储空间和_不限制速度_的下载链接，本页的历史资料便是存储在Teambition阿里云网盘上的。更多功能和优惠，请您至[Teambition公式主页](http://teambition.com)确认！
+(推广) [Teambition](http://teambition.com)中的网盘提供高达 _6T_ 的存储空间和 _不限制速度_ 的下载链接，本页的历史资料便是存储在Teambition阿里云网盘上的。更多功能和优惠，请您至[Teambition公式主页](http://teambition.com)确认！
 
 [宗教改革008](https://pan.teambition.com/share/024ac40586aa7960)  /  [天翼云](https://cloud.189.cn/t/2uUnYrUbyyYr)
 
