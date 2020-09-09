@@ -20,4 +20,4 @@
 
 [科技革命课件](https://pan.teambition.com/share/d2d53499c8003258)  /  [天翼云](https://cloud.189.cn/t/aqAz6vZ3ye2i)
 
-![https://s1.ax1x.com/2020/09/10/w8W90g.jpg](https://teambition.com)
+[![w8W90g.jpg](https://s1.ax1x.com/2020/09/10/w8W90g.jpg)](https://teambition.com)
