@@ -2,7 +2,15 @@
 
 建议在浏览器打开；大致按时间由新到旧排序
 
-“标题”链接至阿里云源，斜杠后的天翼云源要登陆
+“标题”链接至阿里云网盘（推荐）；斜杠后的天翼云需登陆。
+
+9月11日更新
+
+[启蒙运动012](https://pan.teambition.com/share/8839daf2a54d25e1)  /  [天翼云](https://cloud.189.cn/t/EJfEvar2ABJj)
+
+[启蒙运动011](https://pan.teambition.com/share/9d1efe19cc633814)  /  [天翼云](https://cloud.189.cn/t/aANZzy7RNzQr)
+
+9月9日更新
 
 [周末004](https://pan.teambition.com/share/1d361aeb324f757c)  /  [天翼云](https://cloud.189.cn/t/jm6RjeiEruIv)
 
