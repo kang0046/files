@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# 历史资料
 
-You can use the [editor on GitHub](https://github.com/kang0046/files/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+建议在浏览器打开；大致按时间由新到旧排序
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+“标题”链接至阿里云网盘（推荐）；斜杠后的天翼云需登陆。
 
-### Markdown
+9月11日更新
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[启蒙运动012](https://pan.teambition.com/share/8839daf2a54d25e1)  /  [天翼云](https://cloud.189.cn/t/EJfEvar2ABJj)
 
-```markdown
-Syntax highlighted code block
+[启蒙运动011](https://pan.teambition.com/share/9d1efe19cc633814)  /  [天翼云](https://cloud.189.cn/t/aANZzy7RNzQr)
 
-# Header 1
-## Header 2
-### Header 3
+9月9日更新
 
-- Bulleted
-- List
+[周末004](https://pan.teambition.com/share/1d361aeb324f757c)  /  [天翼云](https://cloud.189.cn/t/jm6RjeiEruIv)
 
-1. Numbered
-2. List
+[文艺复兴006](https://pan.teambition.com/share/0baa96521745deb4)  /  [天翼云](https://cloud.189.cn/t/EVFFviInQZry)
 
-**Bold** and _Italic_ and `Code` text
+[宗教改革007](https://pan.teambition.com/share/7a6236532ea8fcea)  /  [天翼云](https://cloud.189.cn/t/3IzyauUbiyQf)
 
-[Link](url) and ![Image](src)
-```
+[宗教改革008](https://pan.teambition.com/share/024ac40586aa7960)  /  [天翼云](https://cloud.189.cn/t/2uUnYrUbyyYr)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[宗教改革课件](https://pan.teambition.com/share/aeaa3a0039ebac96)  /  [天翼云](https://cloud.189.cn/t/JvEvmyvUfuaa)
 
-### Jekyll Themes
+[近代科技009](https://pan.teambition.com/share/b314b7f75b7624d6)  /  [天翼云](https://cloud.189.cn/t/nyUBveQJrmYf)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kang0046/files/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[科技革命课件](https://pan.teambition.com/share/d2d53499c8003258)  /  [天翼云](https://cloud.189.cn/t/aqAz6vZ3ye2i)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[![w8W90g.jpg](https://s1.ax1x.com/2020/09/10/w8W90g.jpg)](https://teambition.com)
