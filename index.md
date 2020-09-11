@@ -1,8 +1,8 @@
-# 历史资料
+# 历史学科资料
 
 建议在浏览器打开；大致按时间由新到旧排序
 
-“标题”链接至阿里云网盘（推荐）；斜杠后的天翼云需登陆。
+“标题”链接至阿里云网盘（推荐）；斜杠后的天翼云需登陆
 
 9月11日更新
 
@@ -26,4 +26,4 @@
 
 [科技革命课件](https://pan.teambition.com/share/d2d53499c8003258)  /  [天翼云](https://cloud.189.cn/t/aqAz6vZ3ye2i)
 
-[![w8W90g.jpg](https://s1.ax1x.com/2020/09/10/w8W90g.jpg)](https://teambition.com)
+向您推荐：Teambition协作工具。提供高达6TB的不限速存储。[加入网盘内测](https://teambition.com)
